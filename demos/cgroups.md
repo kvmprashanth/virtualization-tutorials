@@ -18,9 +18,9 @@
         mkdir M1
         cd M1
     ```
-1. Attach any running process to this newly created memory cgroup `M1`. Preferably a process that increases memory consumption over time.
+1. Attach any running process to this newly created memory cgroup `M1`. Preferably a process that increases memory consumption over time. Try to locate your browser's PID using ps aux command. And enter that PID below
     ```bash
-        echo {{pid}} > cgroups.procs
+        echo {{PID}} > cgroups.procs
     ```
 1. Print the memory stats
     ```bash

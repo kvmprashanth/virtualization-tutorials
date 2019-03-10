@@ -79,13 +79,14 @@ The installation for Docker for different OS/Distros can be found at [docker.com
     ```bash
         mkdir ~/demo-app && cd ~/demo-app
     ```
-1. Create a new file with the name `index.php`
+1. (Optional) Install vim editor. Optionally you could use an editor of your choice to edit files below.
     ```bash
-        touch index.php
+        sudo apt-get install vim
     ```
-1. Open this newly created file `index.php`
+1. vim commands can be found in [this vim cheat sheat](https://devhints.io/vim)
+1. Open a new file `index.php`
     ```bash
-        xdg-open index.php
+        vim index.php
     ```
 1. Copy the following contents into it
     ```php
@@ -97,8 +98,7 @@ The installation for Docker for different OS/Distros can be found at [docker.com
 1. Save and exit `index.php`
 1. Now similarily create a file `Dockerfile` and copy the following contents.
     ```bash
-        touch Dockerfile
-        xdg-open Dockerfile
+        vim Dockerfile
     ```
     ```bash
         FROM php:5-apache

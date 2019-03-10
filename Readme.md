@@ -4,8 +4,8 @@ This repository contains a set of tutorials that can be followed.
 
 ### Try demos with the below links
 
-- [Try memory cgroups here](demos/cgroups.md)
 - [Try docker here](demos/docker.md)
+- [Try memory cgroups here](demos/cgroups.md)
 
 ### Presentation slides
 
