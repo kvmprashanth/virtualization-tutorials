@@ -9,8 +9,8 @@ This repository contains a set of tutorials that can be followed.
 
 ### Presentation slides
 
-- [Fundamentals of virtualization](https://sap-my.sharepoint.com/:p:/p/prashanth/Ed0-HB1gfXxKnsRb1RFwUt0BpftARIViA4Jrv9ijSJmQTw?e=I6Jdxg)
-- [Demystifying docker](https://sap-my.sharepoint.com/:p:/p/prashanth/Ea2zd7TjbKNAk0JqPg1d3mkB-R5tLU9Qbo6usqQjTelGCA?e=mRtpzp)
+- [Fundamentals of virtualization](https://sap-my.sharepoint.com/:p:/p/prashanth/EZgQ3GGDMdBAqF1fcowohOgBqf9-XNXj66oAcavNyqQD9g?e=er6dxa)
+- [Demystifying docker](https://sap-my.sharepoint.com/:p:/p/prashanth/ET_bsggn9_dAqaoEfE7j0esB6ONfYLWt67_8E8H-49cYew?e=Fnbzg4)
 
 ### Contact Info
 
